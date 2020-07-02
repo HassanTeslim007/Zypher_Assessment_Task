@@ -1,0 +1,2 @@
+rootProject.name='Zypher_UITask_HT'
+include ':app'
